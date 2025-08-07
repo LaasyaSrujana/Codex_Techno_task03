@@ -20,4 +20,4 @@ This project focuses on predicting the price of used cars based on various featu
 - Interactive Gradio app to predict car price based on inputs
 
 # Video Demo:
-The working Gradio model demo can be viewed ().
+The working Gradio model demo can be viewed (https://drive.google.com/file/d/1IFCmU5A4VblAQAZ3N8A952YM5JAiDwqk/view?usp=drive_link).
